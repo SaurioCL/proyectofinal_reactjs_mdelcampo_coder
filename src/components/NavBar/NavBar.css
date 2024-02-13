@@ -1,0 +1,13 @@
+#logo {
+    justify-content: center;
+    border-radius: 10px;
+}
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+li{
+    padding: 0 20px;
+}

@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "nombre": "MSI PRO A620M-E",
+        "img": "/assets/img/placaamd01.jpg",
+        "precio": 75000,
+        "stock": 2,
+        "description": "Socket AM5",
+        "categoria": "Placas Madre"
+    },
+    {
+        "id": 2,
+        "nombre": "Gigabyte A620M S2H",
+        "img": "/assets/img/placaamd02.jpg",
+        "precio": 90000,
+        "stock": 10,
+        "description": "Socket AM5",
+        "categoria": "Placas Madre"
+    },
+    {
+        "id": 3,
+        "nombre": "MSI PRO H610M-G DDR4",
+        "img": "/assets/img/placaintel01.jpg",
+        "precio": 80000,
+        "stock": 3,
+        "description": "Socket LGA 1700",
+        "categoria": "Placas Madre"
+    },
+    {
+        "id": 4,
+        "nombre": "ASRock H610M-HDV",
+        "img": "/assets/img/placaintel02.png",
+        "precio": 80000,
+        "stock": 3,
+        "description": "Socket LGA 1700",
+        "categoria": "Placas Madre"
+    },
+    {
+        "id": 5,
+        "nombre": "AMD Ryzen 5 7600",
+        "img": "/assets/img/proceamd01.jpg",
+        "precio": 210000,
+        "stock": 3,
+        "description": "Socket AM5",
+        "categoria": "Procesadores"
+    },
+    {
+        "id": 6,
+        "nombre": "AMD Ryzen 7 7700",
+        "img": "/assets/img/proceamd02.jpg",
+        "precio": 290000,
+        "stock": 3,
+        "description": "Socket AM5",
+        "categoria": "Procesadores"
+    },
+    {
+        "id": 7,
+        "nombre": "Intel Core i5-14400",
+        "img": "/assets/img/proceintel01.png",
+        "precio": 300000,
+        "stock": 3,
+        "description": "Socket LGA 1700",
+        "categoria": "Procesadores"
+    },
+    {
+        "id": 8,
+        "nombre": "Intel Core i7-14700F",
+        "img": "/assets/img/proceintel02.png",
+        "precio": 490000,
+        "stock": 3,
+        "description": "Socket LGA 1700",
+        "categoria": "Procesadores"
+    },    
+    {
+        "id": 9,
+        "nombre": "MSI Radeon RX 7600 MECH 2X CLASSIC 8G OC",
+        "img": "/assets/img/videoamd01.png",
+        "precio": 340000,
+        "stock": 3,
+        "description": "AMD Radeon RX 7000 Series",
+        "categoria": "Tarjetas de Video"
+    },
+    {
+        "id": 10,
+        "nombre": "Gigabyte Radeon RX 7700 XT GAMING OC 12G",
+        "img": "/assets/img/videoamd02.webp",
+        "precio": 525000,
+        "stock": 3,
+        "description": "AMD Radeon RX 7000 Series",
+        "categoria": "Tarjetas de Video"
+    },
+    {
+        "id": 11,
+        "nombre": "MSI GeForce RTX 4060 VENTUS 2X BLACK 8G OC",
+        "img": "/assets/img/videonvidia01.png",
+        "precio": 340000,
+        "stock": 3,
+        "description": "Nvidia GeForce RTX 40 Series",
+        "categoria": "Tarjetas de Video"
+    },
+    {
+        "id": 12,
+        "nombre": "MSI GeForce RTX 4070 VENTUS 2X 12G OC",
+        "img": "/assets/img/videonvidia02.png",
+        "precio": 660000,
+        "stock": 3,
+        "description": "Nvidia GeForce RTX 40 Series",
+        "categoria": "Tarjetas de Video"
+    }
+]
